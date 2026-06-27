@@ -1,10 +1,18 @@
 # Claude Code Skills for Data Scientists
 
-Three Claude Code skills a senior data scientist uses to ship work with confidence. Each one closes a different confidence gap, before a stakeholder ever sees the work.
+The Claude Code skills I use every day to do real data science. Analysis that holds up, gets used, and gets trusted. Not just faster output.
+
+Most AI tooling speeds up the middle of the work: the querying, the cleaning, the charts. But the parts that decide whether your work actually lands sit at the edges. Knowing what to commit to before you promise it. Catching the flaw you are too close to see. Making the result land with the person who has to act on it. That is where these three skills live.
+
+They are small, easy to adapt, and composable. They work with any model. They come from years of doing the job, not from a rigid process that takes the wheel out of your hands. Hack around with them. Make them your own.
 
 - **feasibility-check** : before you commit to building
 - **analyst-peer-reviewer** : before you trust the numbers
 - **present-analysis** : before a stakeholder sees it
+
+I also write a weekly newsletter for data scientists who want to stay relevant and grow their careers in the age of AI, and beyond. If that sounds useful, you can join 15,000+ others:
+
+**[Sign up to the newsletter](http://read.futureproofds.com/subscribe)**
 
 ## Install
 
