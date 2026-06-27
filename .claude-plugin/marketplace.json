@@ -1,0 +1,14 @@
+{
+  "name": "andres-vourakis",
+  "owner": {
+    "name": "Andres Vourakis"
+  },
+  "description": "Claude Code skills for data scientists, by Andres Vourakis.",
+  "plugins": [
+    {
+      "name": "data-scientist-skills",
+      "source": ".",
+      "description": "Three skills that close a confidence gap at each edge of the analytics lifecycle: feasibility-check, analyst-peer-reviewer, and present-analysis."
+    }
+  ]
+}

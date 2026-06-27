@@ -1,0 +1,8 @@
+pandas
+numpy
+matplotlib
+jupyterlab
+google-api-python-client==2.108.0
+google-auth-oauthlib
+scikit-learn   # TODO not actually using this yet, was going to try a real model
+openpyxl

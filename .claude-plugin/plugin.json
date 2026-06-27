@@ -1,0 +1,10 @@
+{
+  "name": "data-scientist-skills",
+  "description": "Three independent Claude Code skills for data scientists: feasibility-check (before you commit to building), analyst-peer-reviewer (before you trust the numbers), and present-analysis (before a stakeholder sees the work).",
+  "version": "0.1.0",
+  "author": {
+    "name": "Andres Vourakis"
+  },
+  "homepage": "https://github.com/andresvourakis/data-scientist-skills",
+  "license": "MIT"
+}

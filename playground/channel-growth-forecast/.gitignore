@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+token.json
+client_secret*.json
+.DS_Store
+.venv/
+env/
+# note: data/ is committed on purpose right now so the forecast is reproducible

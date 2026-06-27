@@ -1,0 +1,39 @@
+deal_id,channel,month,sponsor,gross_amount_usd,status
+4026,Studio Hum,2026-04,BetterHelp,3000,invoiced
+4038,Night Shift Science,2026-05,Ridge Wallet,6500,pending
+4030,Paper Planes,2026-03,Audible,,paid
+4003,Pixel Forge,2026-05,Audible,2000,pending
+4025,Penny and Plan,2026-05,Ridge Wallet,2500,pending
+4014,Trailhead,2026-04,HelloFresh,,invoiced
+4037,Night Shift Science,2026-05,Skillshare,5000,paid
+4028,Grit and Gain,2026-03,Skillshare,5000,paid
+4029,Grit and Gain,2026-05,Audible,2500,paid
+4020,The Lore Vault,2026-04,Manscaped,1500,paid
+4009,Skillet and Spoon,2026-05,BetterHelp,5000,paid
+4004,pixel forge,2026-05,Ridge Wallet,3000,paid
+4005,PixelForge,2026-05,Honey,2000,invoiced
+4022,Penny and Plan,2026-03,Audible,8000,paid
+4019,The Lore Vault,2026-04,Honey,3000,paid
+4024,Penny and Plan,2026-04,Squarespace,1500,invoiced
+4033,Paper Planes,2026-05,Surfshark,8000,paid
+4027,Studio Hum,2026-05,Manscaped,2000,pending
+4034,Night Shift Sci,2026-03,Skillshare,6500,paid
+4036,Night Shift Sci,2026-04,Honey,2000,invoiced
+4016,wattage,2026-04,Established Titles,3000,invoiced
+4011,Trailhead,2026-03,Ridge Wallet,1500,paid
+4010,skillet & spoon,2026-05,Established Titles,4000,pending
+4031,Paper Planes,2026-03,Skillshare,,paid
+4008,skillet & spoon,2026-05,Honey,5000,pending
+4002,Pixel Forge,2026-04,Audible,2000,paid
+4001,PixelForge,2026-03,Athletic Greens,5000,paid
+4023,Penny and Plan,2026-03,HelloFresh,4000,paid
+4018,The Lore Vault,2026-03,BetterHelp,5000,pending
+4015,wattage,2026-03,Squarespace,3000,invoiced
+4017,The Lore Vault,2026-03,Squarespace,,pending
+4013,Trailhead,2026-03,Ridge Wallet,1500,invoiced
+4012,Trailhead,2026-03,Audible,,paid
+4006,skillet & spoon,2026-03,HelloFresh,6500,paid
+4035,Night Shift Sci,2026-03,NordVPN,1500,invoiced
+4032,Paper Planes,2026-04,Audible,5000,paid
+4021,The Lore Vault,2026-04,HelloFresh,5000,paid
+4007,skillet & spoon,2026-04,Manscaped,5000,pending
