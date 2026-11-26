@@ -1,5 +1,5 @@
 ---
-name: analyst-peer-review
+name: analyst-peer-reviewer
 description: Analytical peer review that challenges the logic, assumptions, and business reasoning behind SQL, Python, or other analytical code. Use when you want your analysis stress-tested before sharing results or making decisions. Not a linter — a devil's advocate for your analysis.
 user-invocable: true
 allowed-tools: Read Grep Glob AskUserQuestion
